@@ -12,9 +12,10 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .pytest_cache/
-venv/
+.venv/
 
 # Системные файлы
 .DS_Store
 .idea/
 .vscode/
+.venv/
