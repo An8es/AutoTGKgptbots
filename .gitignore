@@ -1,0 +1,20 @@
+# Конфиги с секретами
+config.py
+.env
+*.env
+
+# Логи
+*.log
+logs/
+
+# Питон-специфичное
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+
+# Системные файлы
+.DS_Store
+.idea/
+.vscode/
